@@ -32,4 +32,8 @@
 
 #### :ballot_box_with_check: Projects
 - [Food Order App](https://food-order-app-react-redux-firebase.netlify.app/) `REACT` `REDUX` `REALTIME-FIREBASE`
+
+```
+More Coming Soon
+```
  
