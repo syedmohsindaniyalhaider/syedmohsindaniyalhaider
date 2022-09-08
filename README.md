@@ -8,6 +8,7 @@
 - Javascript
 - ReactJs
 - NextJs
+- Angular Js
 - Bootstrap
 - Material-UI
 - Tailwindcss
