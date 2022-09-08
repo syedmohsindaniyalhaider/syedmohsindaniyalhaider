@@ -27,9 +27,9 @@
  - MS Access
  
 #### :ballot_box_with_check: Designs
-- [Metroverse Dummy Design](https://metroverse-design.netlify.app/) `HTML5` `CSS3`
-- [Travel Agency Dummy Design](https://travel-agency-design-1.netlify.app/) `BOOTSTRAP`
-- [Orcalo Dummy Design](https://demo-design-1.netlify.app/) `BOOTSTRAP`
+- [Metroverse Dummy Design](https://metroverse-design.netlify.app/) `HTML5` `CSS3` 
+- [Travel Agency Dummy Design](https://travel-agency-design-1.netlify.app/) `BOOTSTRAP` `FIGMA`
+- [Orcalo Dummy Design](https://demo-design-1.netlify.app/) `BOOTSTRAP` `FIGMA`
 
 #### :ballot_box_with_check: Projects
 - [Food Order App](https://food-order-app-react-redux-firebase.netlify.app/) `REACT` `REDUX` `REALTIME-FIREBASE`
