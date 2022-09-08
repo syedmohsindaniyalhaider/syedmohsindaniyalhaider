@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Syed Mohsin 
 
-> ### Full Stack Developer
+### **Full Stack Developer**
 
 #### :man_technologist: Skills
 
