@@ -13,6 +13,7 @@
 - Tailwindcss
 - HTML5
 - CSS3
+- Typescript
 > ###### Backend  :round_pushpin: 
 - Express
 > ###### Databases  :round_pushpin: 
