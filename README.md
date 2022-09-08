@@ -10,5 +10,7 @@ Front End Developer in the Company Holistic Solutions. Worked on 4 different pro
 - 2 Years of Experience in developing ERD’s, Schema, relational models and other related tasks in SQL Server/ T-SQL for remote Clients. Have experience in SQL and No-SQL databases and also developed management systems in MS ACCESS.
 
 :: Projects ::
+
 => Food Order App using React-Redux-Firebase
+
    https://food-order-app-react-redux-firebase.netlify.app/
