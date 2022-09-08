@@ -25,7 +25,11 @@
  - MS Excel
  - MS Access
  
-### **Designs**
-[Metroverse Dummy Design](https://metroverse-design.netlify.app/)
+#### :ballot_box_with_check: Designs
+- [Metroverse Dummy Design](https://metroverse-design.netlify.app/)
+- [Travel Agency Dummy Design](https://travel-agency-design-1.netlify.app/)
+- [Orcalo Dummy Design](https://travel-agency-design-1.netlify.app/)
 
+#### :ballot_box_with_check: Projects
+- [Food Order App](https://food-order-app-react-redux-firebase.netlify.app/)
  
