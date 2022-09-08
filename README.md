@@ -20,6 +20,7 @@
 - Mysql
 - Mongodb
 - Sqllite
+- Firebase
 
  > ###### Tools :hammer:
  - Adobe Illustrator
