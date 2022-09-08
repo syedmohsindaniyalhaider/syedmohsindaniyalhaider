@@ -22,7 +22,7 @@
 
  > ###### Tools :hammer:
  - Adobe Illustrator
- - MS Excel
+ - MS Excel - VBA
  - MS Access
  
 #### :ballot_box_with_check: Designs
