@@ -16,6 +16,7 @@
 - CSS3
 - Typescript
 > ###### Backend  :round_pushpin: 
+- Nestjs
 - Express
 > ###### Databases  :round_pushpin: 
 - Mysql
